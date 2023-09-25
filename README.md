@@ -24,7 +24,7 @@ N/A
 Please refer to license in the repo.
 
 ## Website URL:
-https://evanrc.github.io/Horiseon-Recoded/
+https://evanrc.github.io/Horiseon-Reforged/
 
 
 ## Code Screenshot:
